@@ -16,10 +16,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r}
 library(htmltools)
 tagList(
-tags$script(src='jspsych-6.3.1/jspsych.js'),
-tags$script(src='jspsych-6.3.1/plugins/jspsych-html-keyboard-response.js'),
-tags$script(src='jspsych-6.3.1/plugins/jspsych-html-button-response.js'),
-tags$script(src='jspsych-6.3.1/plugins/jspsych-fullscreen.js'),
+tags$script(src='https://tesla1879.github.io/jsPsychSheet/test/jspsych-6.3.1/jspsych.js'),
+tags$script(src='https://tesla1879.github.io/jsPsychSheet/test/jspsych-6.3.1/plugins/jspsych-html-keyboard-response.js'),
+tags$script(src='https://tesla1879.github.io/jsPsychSheet/test/jspsych-6.3.1/plugins/jspsych-html-button-response.js'),
+tags$script(src='https://tesla1879.github.io/jsPsychSheet/test/jspsych-6.3.1/plugins/jspsych-fullscreen.js'),
 )
 ```
 
