@@ -22,6 +22,8 @@ tags$script(src='https://tesla1879.github.io/jsPsychSheet/test2/jspsych-6.3.1/pl
 tags$script(src='https://tesla1879.github.io/jsPsychSheet/test2/jspsych-6.3.1/plugins/jspsych-image-keyboard-response.js'),
 tags$script(src='https://tesla1879.github.io/jsPsychSheet/test2/jspsych-6.3.1/plugins/jspsych-preload.js'),
 tags$script(src='https://tesla1879.github.io/jsPsychSheet/test2/jspsych-6.3.1/plugins/jspsych-fullscreen.js'),
+tags$script(src='https://tesla1879.github.io/jsPsychSheet/jspsychsheet.js'),
+
 )
 ```
 
